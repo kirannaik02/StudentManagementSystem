@@ -1,5 +1,5 @@
-This project is a backend-only Student Management System built using Spring Boot. 
-It provides RESTful APIs for managing student data through Postman, without connecting to a database.
+This project is a **backend-only Student Management System** built using **Spring Boot**. It provides RESTful APIs for managing student data through **Postman**, without connecting to a database.  
+
 
 Tech Stack:
 1.Spring Boot
